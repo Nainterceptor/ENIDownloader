@@ -1,3 +1,7 @@
+# Don't open issues, please fork & fix it yourself
+
+I'm not longer using Editions ENI, because they like DRM and other shitty software solutions, so I will not update this script, and it's not longer working. Please fork it.
+
 ENIDownloader
 =============
 
